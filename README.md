@@ -13,10 +13,6 @@
   <a href="https://wa.me/584248534449">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/manuel.zky/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <!-- Gmail -->
   <a href="mailto:manuelc.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
@@ -32,12 +28,19 @@
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About me  
 
-- *🎓 Graduated in **Software Engineering (2025)***  
-- *🎶 Passionate about **classical music and jazz***  
-- *🌱 Learning more every day: **C#, .NET, algorithms, and systems***  
-- *⚡ Fast learner with a strong focus on delivering quality*  
-- *🤝 Open to collaborating on **open-source projects***  
-- *💡 Currently seeking new job opportunities*  
+<div align="center">
+
+| 👨‍💻 Professional | 🎶 Personal |
+|-------------------|-------------|
+| 🎓 Graduated in **Software Engineering (2025)** | 🎶 Passionate about **classical music and jazz** |
+| 🌱 Learning **C#, .NET, algorithms, and systems** | 📚 Curious and always exploring new ideas |
+| ⚡ Fast learner with a strong focus on delivering quality | ✨ Enjoy challenges and creative problem-solving |
+| 🤝 Open to collaborating on **open-source projects** | 🎮 Indie game developer in my free time |
+| 💡 Currently seeking new job opportunities | 🌍 Believe in connecting people through technology |
+
+</div>
+
+
 
 
 
@@ -51,12 +54,9 @@ to build desktop applications, but I also have experience with
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat), 
 both in professional projects and personal experiments.
 
-I enjoy the satisfaction of solving problems on my own and seeing how everything fits together like a 🧩 within a real project.
-<br>
-For me, technology should be more than just functional—it should deliver tangible value to its users.
-
-**I support open source:** I believe code is meant to be shared and improved by everyone. I don’t aim to reinvent the wheel, but to learn from the community and contribute my part to create real solutions for everyday problems. 🚀
-
+- 🧩 I like figuring things out, connecting the dots, and watching projects come alive.  
+- 🌍 **Good software is more than code** — it’s about helping real people in real ways.  
+- 🤝 I believe in sharing what I learn, and ***open-source*** is the perfect place for that.  
 
 
 
