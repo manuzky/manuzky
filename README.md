@@ -29,6 +29,20 @@
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About me  
+
+- *🎓 Graduated in **Software Engineering (2025)***  
+- *🎶 Passionate about **classical music and jazz***  
+- *🌱 Learning more every day: **C#, .NET, algorithms, and systems***  
+- *⚡ Fast learner with a strong focus on delivering quality*  
+- *🤝 Open to collaborating on **open-source projects***  
+- *💡 Currently seeking new job opportunities*  
+
+
+
+
+
 I’m currently focusing on 
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat) 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logoColor=white&style=flat) 
@@ -37,9 +51,15 @@ to build desktop applications, but I also have experience with
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat), 
 both in professional projects and personal experiments.
 
-I enjoy the satisfaction of solving problems on my own and seeing how everything fits together like a puzzle within a real project. For me, technology should be more than just functional—it should deliver tangible value to its users.
+I enjoy the satisfaction of solving problems on my own and seeing how everything fits together like a 🧩 within a real project.
+<br>
+For me, technology should be more than just functional—it should deliver tangible value to its users.
 
 **I support open source:** I believe code is meant to be shared and improved by everyone. I don’t aim to reinvent the wheel, but to learn from the community and contribute my part to create real solutions for everyday problems. 🚀
+
+
+
+
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -55,9 +75,3 @@ I enjoy the satisfaction of solving problems on my own and seeing how everything
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,laravel,cs,dotnet,mysql,git,github,nodejs,npm,unity,visualstudio,vscode&perline=8" />
   </a>
 </p>
-
-
-
-
-
-  
