@@ -1,7 +1,7 @@
 
 ### Hi there 👋 I'm José,  [and I am...](https://github.com/manuzky) <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture>
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%231E90FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;IT+Support;Problem+Solver;Indie+Game+Developer;Open-Source+Enthusiast" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%231E90FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Engineer;QA+%26+IT+Specialist;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
 </div>
 
 <div align=center>
@@ -32,10 +32,9 @@
 
 | 👨‍💻 Professional | 🎶 Personal |
 |-------------------|-------------|
-| 🎓 Graduated in **Software Engineering (2025)** | 🎶 Passionate about **classical music and jazz** |
+| 🎓 Graduated in **Computer Engineering (2025)** | 🎶 Passionate about **classical music and jazz** |
 | 🌱 Learning **C#, .NET, algorithms, and systems** | 📚 Curious and always exploring new ideas |
-| ⚡ Fast learner with a strong focus on delivering quality | ✨ Enjoy challenges and creative problem-solving |
-| 🤝 Open to collaborating on **open-source projects** | 🎮 Indie game developer in my free time |
+| ⚡ Fast learner with a strong focus on delivering quality | 🎮 Exploring indie game development as a hobby |
 | 💡 Currently seeking new job opportunities | 🌍 Believe in connecting people through technology |
 
 </div>
